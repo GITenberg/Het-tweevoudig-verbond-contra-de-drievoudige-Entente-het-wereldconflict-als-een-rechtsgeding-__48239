@@ -1,9 +1,13 @@
 _repo: Het-tweevoudig-verbond-contra-de-drievoudige-Entente-het-wereldconflict-als-een-rechtsgeding-__48239
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Veer, Willem de
     gutenberg_agent_id: '44692'
     url: http://www.gutenberg.org/2009/agents/44692
+covers:
+- cover_type: archival
+  image_path: 48239-h/images/cover.jpg
 creator:
   author:
     agent_name: Beck, James M. (James Montgomery)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3290
     wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48239#Het-tweevoudig-verbond-contra-de-drievoudige-Entente-het-wereldconflict-als-een-rechtsgeding-_
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
