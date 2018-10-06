@@ -28,6 +28,8 @@ language: nl
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Het tweevoudig verbond contra de drievoudige Entente
 
   (het wereldconflict als een rechtsgeding behandeld)'
